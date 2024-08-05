@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "formidable": "^3.5.1",
+    "mongodb": "^6.5.0",
+    "nodemon": "^3.1.0"
+  }
+}
